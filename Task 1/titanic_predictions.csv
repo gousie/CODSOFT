@@ -1,0 +1,892 @@
+PassengerId,Name,Predicted_Survived
+1,"Braund, Mr. Owen Harris",Did Not Survive
+2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Survived
+3,"Heikkinen, Miss. Laina",Did Not Survive
+4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Survived
+5,"Allen, Mr. William Henry",Did Not Survive
+6,"Moran, Mr. James",Did Not Survive
+7,"McCarthy, Mr. Timothy J",Did Not Survive
+8,"Palsson, Master. Gosta Leonard",Did Not Survive
+9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Did Not Survive
+10,"Nasser, Mrs. Nicholas (Adele Achem)",Survived
+11,"Sandstrom, Miss. Marguerite Rut",Did Not Survive
+12,"Bonnell, Miss. Elizabeth",Survived
+13,"Saundercock, Mr. William Henry",Did Not Survive
+14,"Andersson, Mr. Anders Johan",Did Not Survive
+15,"Vestrom, Miss. Hulda Amanda Adolfina",Did Not Survive
+16,"Hewlett, Mrs. (Mary D Kingcome) ",Survived
+17,"Rice, Master. Eugene",Did Not Survive
+18,"Williams, Mr. Charles Eugene",Did Not Survive
+19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Did Not Survive
+20,"Masselmani, Mrs. Fatima",Survived
+21,"Fynney, Mr. Joseph J",Did Not Survive
+22,"Beesley, Mr. Lawrence",Did Not Survive
+23,"McGowan, Miss. Anna ""Annie""",Survived
+24,"Sloper, Mr. William Thompson",Did Not Survive
+25,"Palsson, Miss. Torborg Danira",Did Not Survive
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Did Not Survive
+27,"Emir, Mr. Farred Chehab",Did Not Survive
+28,"Fortune, Mr. Charles Alexander",Did Not Survive
+29,"O'Dwyer, Miss. Ellen ""Nellie""",Survived
+30,"Todoroff, Mr. Lalio",Did Not Survive
+31,"Uruchurtu, Don. Manuel E",Did Not Survive
+32,"Spencer, Mrs. William Augustus (Marie Eugenie)",Survived
+33,"Glynn, Miss. Mary Agatha",Survived
+34,"Wheadon, Mr. Edward H",Did Not Survive
+35,"Meyer, Mr. Edgar Joseph",Did Not Survive
+36,"Holverson, Mr. Alexander Oskar",Did Not Survive
+37,"Mamee, Mr. Hanna",Did Not Survive
+38,"Cann, Mr. Ernest Charles",Did Not Survive
+39,"Vander Planke, Miss. Augusta Maria",Did Not Survive
+40,"Nicola-Yarred, Miss. Jamila",Survived
+41,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Did Not Survive
+42,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Survived
+43,"Kraeff, Mr. Theodor",Did Not Survive
+44,"Laroche, Miss. Simonne Marie Anne Andree",Survived
+45,"Devaney, Miss. Margaret Delia",Survived
+46,"Rogers, Mr. William John",Did Not Survive
+47,"Lennon, Mr. Denis",Did Not Survive
+48,"O'Driscoll, Miss. Bridget",Survived
+49,"Samaan, Mr. Youssef",Did Not Survive
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Did Not Survive
+51,"Panula, Master. Juha Niilo",Did Not Survive
+52,"Nosworthy, Mr. Richard Cater",Did Not Survive
+53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Survived
+54,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Survived
+55,"Ostby, Mr. Engelhart Cornelius",Did Not Survive
+56,"Woolner, Mr. Hugh",Did Not Survive
+57,"Rugg, Miss. Emily",Survived
+58,"Novel, Mr. Mansouer",Did Not Survive
+59,"West, Miss. Constance Mirium",Survived
+60,"Goodwin, Master. William Frederick",Did Not Survive
+61,"Sirayanian, Mr. Orsen",Did Not Survive
+62,"Icard, Miss. Amelie",Survived
+63,"Harris, Mr. Henry Birkhardt",Did Not Survive
+64,"Skoog, Master. Harald",Did Not Survive
+65,"Stewart, Mr. Albert A",Did Not Survive
+66,"Moubarek, Master. Gerios",Did Not Survive
+67,"Nye, Mrs. (Elizabeth Ramell)",Survived
+68,"Crease, Mr. Ernest James",Did Not Survive
+69,"Andersson, Miss. Erna Alexandra",Did Not Survive
+70,"Kink, Mr. Vincenz",Did Not Survive
+71,"Jenkin, Mr. Stephen Curnow",Did Not Survive
+72,"Goodwin, Miss. Lillian Amy",Did Not Survive
+73,"Hood, Mr. Ambrose Jr",Did Not Survive
+74,"Chronopoulos, Mr. Apostolos",Did Not Survive
+75,"Bing, Mr. Lee",Did Not Survive
+76,"Moen, Mr. Sigurd Hansen",Did Not Survive
+77,"Staneff, Mr. Ivan",Did Not Survive
+78,"Moutal, Mr. Rahamin Haim",Did Not Survive
+79,"Caldwell, Master. Alden Gates",Survived
+80,"Dowdell, Miss. Elizabeth",Did Not Survive
+81,"Waelens, Mr. Achille",Did Not Survive
+82,"Sheerlinck, Mr. Jan Baptist",Did Not Survive
+83,"McDermott, Miss. Brigdet Delia",Survived
+84,"Carrau, Mr. Francisco M",Did Not Survive
+85,"Ilett, Miss. Bertha",Survived
+86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Did Not Survive
+87,"Ford, Mr. William Neal",Did Not Survive
+88,"Slocovski, Mr. Selman Francis",Did Not Survive
+89,"Fortune, Miss. Mabel Helen",Survived
+90,"Celotti, Mr. Francesco",Did Not Survive
+91,"Christmann, Mr. Emil",Did Not Survive
+92,"Andreasson, Mr. Paul Edvin",Did Not Survive
+93,"Chaffee, Mr. Herbert Fuller",Did Not Survive
+94,"Dean, Mr. Bertram Frank",Did Not Survive
+95,"Coxon, Mr. Daniel",Did Not Survive
+96,"Shorney, Mr. Charles Joseph",Did Not Survive
+97,"Goldschmidt, Mr. George B",Did Not Survive
+98,"Greenfield, Mr. William Bertram",Did Not Survive
+99,"Doling, Mrs. John T (Ada Julia Bone)",Survived
+100,"Kantor, Mr. Sinai",Did Not Survive
+101,"Petranec, Miss. Matilda",Did Not Survive
+102,"Petroff, Mr. Pastcho (""Pentcho"")",Did Not Survive
+103,"White, Mr. Richard Frasar",Did Not Survive
+104,"Johansson, Mr. Gustaf Joel",Did Not Survive
+105,"Gustafsson, Mr. Anders Vilhelm",Did Not Survive
+106,"Mionoff, Mr. Stoytcho",Did Not Survive
+107,"Salkjelsvik, Miss. Anna Kristine",Did Not Survive
+108,"Moss, Mr. Albert Johan",Did Not Survive
+109,"Rekic, Mr. Tido",Did Not Survive
+110,"Moran, Miss. Bertha",Did Not Survive
+111,"Porter, Mr. Walter Chamberlain",Did Not Survive
+112,"Zabour, Miss. Hileni",Survived
+113,"Barton, Mr. David John",Did Not Survive
+114,"Jussila, Miss. Katriina",Did Not Survive
+115,"Attalah, Miss. Malake",Survived
+116,"Pekoniemi, Mr. Edvard",Did Not Survive
+117,"Connors, Mr. Patrick",Did Not Survive
+118,"Turpin, Mr. William John Robert",Did Not Survive
+119,"Baxter, Mr. Quigg Edmond",Did Not Survive
+120,"Andersson, Miss. Ellis Anna Maria",Did Not Survive
+121,"Hickman, Mr. Stanley George",Did Not Survive
+122,"Moore, Mr. Leonard Charles",Did Not Survive
+123,"Nasser, Mr. Nicholas",Did Not Survive
+124,"Webber, Miss. Susan",Survived
+125,"White, Mr. Percival Wayland",Did Not Survive
+126,"Nicola-Yarred, Master. Elias",Survived
+127,"McMahon, Mr. Martin",Did Not Survive
+128,"Madsen, Mr. Fridtjof Arne",Did Not Survive
+129,"Peter, Miss. Anna",Survived
+130,"Ekstrom, Mr. Johan",Did Not Survive
+131,"Drazenoic, Mr. Jozef",Did Not Survive
+132,"Coelho, Mr. Domingos Fernandeo",Did Not Survive
+133,"Robins, Mrs. Alexander A (Grace Charity Laury)",Did Not Survive
+134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Survived
+135,"Sobey, Mr. Samuel James Hayden",Did Not Survive
+136,"Richard, Mr. Emile",Did Not Survive
+137,"Newsom, Miss. Helen Monypeny",Survived
+138,"Futrelle, Mr. Jacques Heath",Did Not Survive
+139,"Osen, Mr. Olaf Elon",Did Not Survive
+140,"Giglio, Mr. Victor",Did Not Survive
+141,"Boulos, Mrs. Joseph (Sultana)",Survived
+142,"Nysten, Miss. Anna Sofia",Did Not Survive
+143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Did Not Survive
+144,"Burke, Mr. Jeremiah",Did Not Survive
+145,"Andrew, Mr. Edgardo Samuel",Did Not Survive
+146,"Nicholls, Mr. Joseph Charles",Did Not Survive
+147,"Andersson, Mr. August Edvard (""Wennerstrom"")",Did Not Survive
+148,"Ford, Miss. Robina Maggie ""Ruby""",Did Not Survive
+149,"Navratil, Mr. Michel (""Louis M Hoffman"")",Did Not Survive
+150,"Byles, Rev. Thomas Roussel Davids",Did Not Survive
+151,"Bateman, Rev. Robert James",Did Not Survive
+152,"Pears, Mrs. Thomas (Edith Wearne)",Survived
+153,"Meo, Mr. Alfonzo",Did Not Survive
+154,"van Billiard, Mr. Austin Blyler",Did Not Survive
+155,"Olsen, Mr. Ole Martin",Did Not Survive
+156,"Williams, Mr. Charles Duane",Did Not Survive
+157,"Gilnagh, Miss. Katherine ""Katie""",Survived
+158,"Corn, Mr. Harry",Did Not Survive
+159,"Smiljanic, Mr. Mile",Did Not Survive
+160,"Sage, Master. Thomas Henry",Did Not Survive
+161,"Cribb, Mr. John Hatfield",Did Not Survive
+162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Survived
+163,"Bengtsson, Mr. John Viktor",Did Not Survive
+164,"Calic, Mr. Jovo",Did Not Survive
+165,"Panula, Master. Eino Viljami",Did Not Survive
+166,"Goldsmith, Master. Frank John William ""Frankie""",Survived
+167,"Chibnall, Mrs. (Edith Martha Bowerman)",Survived
+168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Did Not Survive
+169,"Baumann, Mr. John D",Did Not Survive
+170,"Ling, Mr. Lee",Did Not Survive
+171,"Van der hoef, Mr. Wyckoff",Did Not Survive
+172,"Rice, Master. Arthur",Did Not Survive
+173,"Johnson, Miss. Eleanor Ileen",Did Not Survive
+174,"Sivola, Mr. Antti Wilhelm",Did Not Survive
+175,"Smith, Mr. James Clinch",Did Not Survive
+176,"Klasen, Mr. Klas Albin",Did Not Survive
+177,"Lefebre, Master. Henry Forbes",Did Not Survive
+178,"Isham, Miss. Ann Elizabeth",Survived
+179,"Hale, Mr. Reginald",Did Not Survive
+180,"Leonard, Mr. Lionel",Did Not Survive
+181,"Sage, Miss. Constance Gladys",Did Not Survive
+182,"Pernot, Mr. Rene",Did Not Survive
+183,"Asplund, Master. Clarence Gustaf Hugo",Did Not Survive
+184,"Becker, Master. Richard F",Survived
+185,"Kink-Heilmann, Miss. Luise Gretchen",Did Not Survive
+186,"Rood, Mr. Hugh Roscoe",Did Not Survive
+187,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Survived
+188,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Did Not Survive
+189,"Bourke, Mr. John",Did Not Survive
+190,"Turcin, Mr. Stjepan",Did Not Survive
+191,"Pinsky, Mrs. (Rosa)",Survived
+192,"Carbines, Mr. William",Did Not Survive
+193,"Andersen-Jensen, Miss. Carla Christine Nielsine",Did Not Survive
+194,"Navratil, Master. Michel M",Survived
+195,"Brown, Mrs. James Joseph (Margaret Tobin)",Survived
+196,"Lurette, Miss. Elise",Survived
+197,"Mernagh, Mr. Robert",Did Not Survive
+198,"Olsen, Mr. Karl Siegwart Andreas",Did Not Survive
+199,"Madigan, Miss. Margaret ""Maggie""",Survived
+200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Survived
+201,"Vande Walle, Mr. Nestor Cyriel",Did Not Survive
+202,"Sage, Mr. Frederick",Did Not Survive
+203,"Johanson, Mr. Jakob Alfred",Did Not Survive
+204,"Youseff, Mr. Gerious",Did Not Survive
+205,"Cohen, Mr. Gurshon ""Gus""",Did Not Survive
+206,"Strom, Miss. Telma Matilda",Did Not Survive
+207,"Backstrom, Mr. Karl Alfred",Did Not Survive
+208,"Albimona, Mr. Nassef Cassem",Did Not Survive
+209,"Carr, Miss. Helen ""Ellen""",Survived
+210,"Blank, Mr. Henry",Did Not Survive
+211,"Ali, Mr. Ahmed",Did Not Survive
+212,"Cameron, Miss. Clear Annie",Survived
+213,"Perkin, Mr. John Henry",Did Not Survive
+214,"Givard, Mr. Hans Kristensen",Did Not Survive
+215,"Kiernan, Mr. Philip",Did Not Survive
+216,"Newell, Miss. Madeleine",Survived
+217,"Honkanen, Miss. Eliina",Did Not Survive
+218,"Jacobsohn, Mr. Sidney Samuel",Did Not Survive
+219,"Bazzani, Miss. Albina",Survived
+220,"Harris, Mr. Walter",Did Not Survive
+221,"Sunderland, Mr. Victor Francis",Did Not Survive
+222,"Bracken, Mr. James H",Did Not Survive
+223,"Green, Mr. George Henry",Did Not Survive
+224,"Nenkoff, Mr. Christo",Did Not Survive
+225,"Hoyt, Mr. Frederick Maxfield",Did Not Survive
+226,"Berglund, Mr. Karl Ivar Sven",Did Not Survive
+227,"Mellors, Mr. William John",Did Not Survive
+228,"Lovell, Mr. John Hall (""Henry"")",Did Not Survive
+229,"Fahlstrom, Mr. Arne Jonas",Did Not Survive
+230,"Lefebre, Miss. Mathilde",Did Not Survive
+231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Survived
+232,"Larsson, Mr. Bengt Edvin",Did Not Survive
+233,"Sjostedt, Mr. Ernst Adolf",Did Not Survive
+234,"Asplund, Miss. Lillian Gertrud",Did Not Survive
+235,"Leyson, Mr. Robert William Norman",Did Not Survive
+236,"Harknett, Miss. Alice Phoebe",Did Not Survive
+237,"Hold, Mr. Stephen",Did Not Survive
+238,"Collyer, Miss. Marjorie ""Lottie""",Survived
+239,"Pengelly, Mr. Frederick William",Did Not Survive
+240,"Hunt, Mr. George Henry",Did Not Survive
+241,"Zabour, Miss. Thamine",Survived
+242,"Murphy, Miss. Katherine ""Kate""",Survived
+243,"Coleridge, Mr. Reginald Charles",Did Not Survive
+244,"Maenpaa, Mr. Matti Alexanteri",Did Not Survive
+245,"Attalah, Mr. Sleiman",Did Not Survive
+246,"Minahan, Dr. William Edward",Did Not Survive
+247,"Lindahl, Miss. Agda Thorilda Viktoria",Did Not Survive
+248,"Hamalainen, Mrs. William (Anna)",Survived
+249,"Beckwith, Mr. Richard Leonard",Did Not Survive
+250,"Carter, Rev. Ernest Courtenay",Did Not Survive
+251,"Reed, Mr. James George",Did Not Survive
+252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Did Not Survive
+253,"Stead, Mr. William Thomas",Did Not Survive
+254,"Lobb, Mr. William Arthur",Did Not Survive
+255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Did Not Survive
+256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Survived
+257,"Thorne, Mrs. Gertrude Maybelle",Survived
+258,"Cherry, Miss. Gladys",Survived
+259,"Ward, Miss. Anna",Survived
+260,"Parrish, Mrs. (Lutie Davis)",Survived
+261,"Smith, Mr. Thomas",Did Not Survive
+262,"Asplund, Master. Edvin Rojj Felix",Did Not Survive
+263,"Taussig, Mr. Emil",Did Not Survive
+264,"Harrison, Mr. William",Did Not Survive
+265,"Henry, Miss. Delia",Survived
+266,"Reeves, Mr. David",Did Not Survive
+267,"Panula, Mr. Ernesti Arvid",Did Not Survive
+268,"Persson, Mr. Ernst Ulrik",Did Not Survive
+269,"Graham, Mrs. William Thompson (Edith Junkins)",Survived
+270,"Bissette, Miss. Amelia",Survived
+271,"Cairns, Mr. Alexander",Did Not Survive
+272,"Tornquist, Mr. William Henry",Did Not Survive
+273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Survived
+274,"Natsch, Mr. Charles H",Did Not Survive
+275,"Healy, Miss. Hanora ""Nora""",Survived
+276,"Andrews, Miss. Kornelia Theodosia",Survived
+277,"Lindblom, Miss. Augusta Charlotta",Did Not Survive
+278,"Parkes, Mr. Francis ""Frank""",Did Not Survive
+279,"Rice, Master. Eric",Did Not Survive
+280,"Abbott, Mrs. Stanton (Rosa Hunt)",Did Not Survive
+281,"Duane, Mr. Frank",Did Not Survive
+282,"Olsson, Mr. Nils Johan Goransson",Did Not Survive
+283,"de Pelsmaeker, Mr. Alfons",Did Not Survive
+284,"Dorking, Mr. Edward Arthur",Did Not Survive
+285,"Smith, Mr. Richard William",Did Not Survive
+286,"Stankovic, Mr. Ivan",Did Not Survive
+287,"de Mulder, Mr. Theodore",Did Not Survive
+288,"Naidenoff, Mr. Penko",Did Not Survive
+289,"Hosono, Mr. Masabumi",Did Not Survive
+290,"Connolly, Miss. Kate",Survived
+291,"Barber, Miss. Ellen ""Nellie""",Survived
+292,"Bishop, Mrs. Dickinson H (Helen Walton)",Survived
+293,"Levy, Mr. Rene Jacques",Did Not Survive
+294,"Haas, Miss. Aloisia",Did Not Survive
+295,"Mineff, Mr. Ivan",Did Not Survive
+296,"Lewy, Mr. Ervin G",Did Not Survive
+297,"Hanna, Mr. Mansour",Did Not Survive
+298,"Allison, Miss. Helen Loraine",Did Not Survive
+299,"Saalfeld, Mr. Adolphe",Did Not Survive
+300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Survived
+301,"Kelly, Miss. Anna Katherine ""Annie Kate""",Survived
+302,"McCoy, Mr. Bernard",Did Not Survive
+303,"Johnson, Mr. William Cahoone Jr",Did Not Survive
+304,"Keane, Miss. Nora A",Survived
+305,"Williams, Mr. Howard Hugh ""Harry""",Did Not Survive
+306,"Allison, Master. Hudson Trevor",Survived
+307,"Fleming, Miss. Margaret",Survived
+308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Survived
+309,"Abelson, Mr. Samuel",Did Not Survive
+310,"Francatelli, Miss. Laura Mabel",Survived
+311,"Hays, Miss. Margaret Bechstein",Survived
+312,"Ryerson, Miss. Emily Borie",Survived
+313,"Lahtinen, Mrs. William (Anna Sylfven)",Survived
+314,"Hendekovic, Mr. Ignjac",Did Not Survive
+315,"Hart, Mr. Benjamin",Did Not Survive
+316,"Nilsson, Miss. Helmina Josefina",Did Not Survive
+317,"Kantor, Mrs. Sinai (Miriam Sternin)",Survived
+318,"Moraweck, Dr. Ernest",Did Not Survive
+319,"Wick, Miss. Mary Natalie",Survived
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Survived
+321,"Dennis, Mr. Samuel",Did Not Survive
+322,"Danoff, Mr. Yoto",Did Not Survive
+323,"Slayter, Miss. Hilda Mary",Survived
+324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Survived
+325,"Sage, Mr. George John Jr",Did Not Survive
+326,"Young, Miss. Marie Grice",Survived
+327,"Nysveen, Mr. Johan Hansen",Did Not Survive
+328,"Ball, Mrs. (Ada E Hall)",Survived
+329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Did Not Survive
+330,"Hippach, Miss. Jean Gertrude",Survived
+331,"McCoy, Miss. Agnes",Survived
+332,"Partner, Mr. Austen",Did Not Survive
+333,"Graham, Mr. George Edward",Did Not Survive
+334,"Vander Planke, Mr. Leo Edmondus",Did Not Survive
+335,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Survived
+336,"Denkoff, Mr. Mitto",Did Not Survive
+337,"Pears, Mr. Thomas Clinton",Did Not Survive
+338,"Burns, Miss. Elizabeth Margaret",Survived
+339,"Dahl, Mr. Karl Edwart",Did Not Survive
+340,"Blackwell, Mr. Stephen Weart",Did Not Survive
+341,"Navratil, Master. Edmond Roger",Survived
+342,"Fortune, Miss. Alice Elizabeth",Survived
+343,"Collander, Mr. Erik Gustaf",Did Not Survive
+344,"Sedgwick, Mr. Charles Frederick Waddington",Did Not Survive
+345,"Fox, Mr. Stanley Hubert",Did Not Survive
+346,"Brown, Miss. Amelia ""Mildred""",Survived
+347,"Smith, Miss. Marion Elsie",Survived
+348,"Davison, Mrs. Thomas Henry (Mary E Finck)",Did Not Survive
+349,"Coutts, Master. William Loch ""William""",Survived
+350,"Dimic, Mr. Jovan",Did Not Survive
+351,"Odahl, Mr. Nils Martin",Did Not Survive
+352,"Williams-Lambert, Mr. Fletcher Fellows",Did Not Survive
+353,"Elias, Mr. Tannous",Did Not Survive
+354,"Arnold-Franchi, Mr. Josef",Did Not Survive
+355,"Yousif, Mr. Wazli",Did Not Survive
+356,"Vanden Steen, Mr. Leo Peter",Did Not Survive
+357,"Bowerman, Miss. Elsie Edith",Survived
+358,"Funk, Miss. Annie Clemmer",Survived
+359,"McGovern, Miss. Mary",Survived
+360,"Mockler, Miss. Helen Mary ""Ellie""",Survived
+361,"Skoog, Mr. Wilhelm",Did Not Survive
+362,"del Carlo, Mr. Sebastiano",Did Not Survive
+363,"Barbara, Mrs. (Catherine David)",Survived
+364,"Asim, Mr. Adola",Did Not Survive
+365,"O'Brien, Mr. Thomas",Did Not Survive
+366,"Adahl, Mr. Mauritz Nils Martin",Did Not Survive
+367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Survived
+368,"Moussa, Mrs. (Mantoura Boulos)",Survived
+369,"Jermyn, Miss. Annie",Survived
+370,"Aubart, Mme. Leontine Pauline",Survived
+371,"Harder, Mr. George Achilles",Did Not Survive
+372,"Wiklund, Mr. Jakob Alfred",Did Not Survive
+373,"Beavan, Mr. William Thomas",Did Not Survive
+374,"Ringhini, Mr. Sante",Did Not Survive
+375,"Palsson, Miss. Stina Viola",Did Not Survive
+376,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Survived
+377,"Landergren, Miss. Aurora Adelia",Did Not Survive
+378,"Widener, Mr. Harry Elkins",Did Not Survive
+379,"Betros, Mr. Tannous",Did Not Survive
+380,"Gustafsson, Mr. Karl Gideon",Did Not Survive
+381,"Bidois, Miss. Rosalie",Survived
+382,"Nakid, Miss. Maria (""Mary"")",Survived
+383,"Tikkanen, Mr. Juho",Did Not Survive
+384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Survived
+385,"Plotcharsky, Mr. Vasil",Did Not Survive
+386,"Davies, Mr. Charles Henry",Did Not Survive
+387,"Goodwin, Master. Sidney Leonard",Did Not Survive
+388,"Buss, Miss. Kate",Survived
+389,"Sadlier, Mr. Matthew",Did Not Survive
+390,"Lehmann, Miss. Bertha",Survived
+391,"Carter, Mr. William Ernest",Did Not Survive
+392,"Jansson, Mr. Carl Olof",Did Not Survive
+393,"Gustafsson, Mr. Johan Birger",Did Not Survive
+394,"Newell, Miss. Marjorie",Survived
+395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Did Not Survive
+396,"Johansson, Mr. Erik",Did Not Survive
+397,"Olsson, Miss. Elina",Did Not Survive
+398,"McKane, Mr. Peter David",Did Not Survive
+399,"Pain, Dr. Alfred",Did Not Survive
+400,"Trout, Mrs. William H (Jessie L)",Survived
+401,"Niskanen, Mr. Juha",Did Not Survive
+402,"Adams, Mr. John",Did Not Survive
+403,"Jussila, Miss. Mari Aina",Did Not Survive
+404,"Hakkarainen, Mr. Pekka Pietari",Did Not Survive
+405,"Oreskovic, Miss. Marija",Did Not Survive
+406,"Gale, Mr. Shadrach",Did Not Survive
+407,"Widegren, Mr. Carl/Charles Peter",Did Not Survive
+408,"Richards, Master. William Rowe",Survived
+409,"Birkeland, Mr. Hans Martin Monsen",Did Not Survive
+410,"Lefebre, Miss. Ida",Did Not Survive
+411,"Sdycoff, Mr. Todor",Did Not Survive
+412,"Hart, Mr. Henry",Did Not Survive
+413,"Minahan, Miss. Daisy E",Survived
+414,"Cunningham, Mr. Alfred Fleming",Did Not Survive
+415,"Sundman, Mr. Johan Julian",Did Not Survive
+416,"Meek, Mrs. Thomas (Annie Louise Rowley)",Did Not Survive
+417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Survived
+418,"Silven, Miss. Lyyli Karoliina",Survived
+419,"Matthews, Mr. William John",Did Not Survive
+420,"Van Impe, Miss. Catharina",Did Not Survive
+421,"Gheorgheff, Mr. Stanio",Did Not Survive
+422,"Charters, Mr. David",Did Not Survive
+423,"Zimmerman, Mr. Leo",Did Not Survive
+424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Did Not Survive
+425,"Rosblom, Mr. Viktor Richard",Did Not Survive
+426,"Wiseman, Mr. Phillippe",Did Not Survive
+427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Survived
+428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Survived
+429,"Flynn, Mr. James",Did Not Survive
+430,"Pickard, Mr. Berk (Berk Trembisky)",Did Not Survive
+431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Did Not Survive
+432,"Thorneycroft, Mrs. Percival (Florence Kate White)",Did Not Survive
+433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Survived
+434,"Kallio, Mr. Nikolai Erland",Did Not Survive
+435,"Silvey, Mr. William Baird",Did Not Survive
+436,"Carter, Miss. Lucile Polk",Survived
+437,"Ford, Miss. Doolina Margaret ""Daisy""",Did Not Survive
+438,"Richards, Mrs. Sidney (Emily Hocking)",Survived
+439,"Fortune, Mr. Mark",Did Not Survive
+440,"Kvillner, Mr. Johan Henrik Johannesson",Did Not Survive
+441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Survived
+442,"Hampe, Mr. Leon",Did Not Survive
+443,"Petterson, Mr. Johan Emil",Did Not Survive
+444,"Reynaldo, Ms. Encarnacion",Survived
+445,"Johannesen-Bratthammer, Mr. Bernt",Did Not Survive
+446,"Dodge, Master. Washington",Survived
+447,"Mellinger, Miss. Madeleine Violet",Survived
+448,"Seward, Mr. Frederic Kimber",Did Not Survive
+449,"Baclini, Miss. Marie Catherine",Survived
+450,"Peuchen, Major. Arthur Godfrey",Did Not Survive
+451,"West, Mr. Edwy Arthur",Did Not Survive
+452,"Hagland, Mr. Ingvald Olai Olsen",Did Not Survive
+453,"Foreman, Mr. Benjamin Laventall",Did Not Survive
+454,"Goldenberg, Mr. Samuel L",Did Not Survive
+455,"Peduzzi, Mr. Joseph",Did Not Survive
+456,"Jalsevac, Mr. Ivan",Did Not Survive
+457,"Millet, Mr. Francis Davis",Did Not Survive
+458,"Kenyon, Mrs. Frederick R (Marion)",Survived
+459,"Toomey, Miss. Ellen",Survived
+460,"O'Connor, Mr. Maurice",Did Not Survive
+461,"Anderson, Mr. Harry",Did Not Survive
+462,"Morley, Mr. William",Did Not Survive
+463,"Gee, Mr. Arthur H",Did Not Survive
+464,"Milling, Mr. Jacob Christian",Did Not Survive
+465,"Maisner, Mr. Simon",Did Not Survive
+466,"Goncalves, Mr. Manuel Estanslas",Did Not Survive
+467,"Campbell, Mr. William",Did Not Survive
+468,"Smart, Mr. John Montgomery",Did Not Survive
+469,"Scanlan, Mr. James",Did Not Survive
+470,"Baclini, Miss. Helene Barbara",Survived
+471,"Keefe, Mr. Arthur",Did Not Survive
+472,"Cacic, Mr. Luka",Did Not Survive
+473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Survived
+474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Survived
+475,"Strandberg, Miss. Ida Sofia",Did Not Survive
+476,"Clifford, Mr. George Quincy",Did Not Survive
+477,"Renouf, Mr. Peter Henry",Did Not Survive
+478,"Braund, Mr. Lewis Richard",Did Not Survive
+479,"Karlsson, Mr. Nils August",Did Not Survive
+480,"Hirvonen, Miss. Hildur E",Did Not Survive
+481,"Goodwin, Master. Harold Victor",Did Not Survive
+482,"Frost, Mr. Anthony Wood ""Archie""",Did Not Survive
+483,"Rouse, Mr. Richard Henry",Did Not Survive
+484,"Turkula, Mrs. (Hedwig)",Did Not Survive
+485,"Bishop, Mr. Dickinson H",Did Not Survive
+486,"Lefebre, Miss. Jeannie",Did Not Survive
+487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Survived
+488,"Kent, Mr. Edward Austin",Did Not Survive
+489,"Somerton, Mr. Francis William",Did Not Survive
+490,"Coutts, Master. Eden Leslie ""Neville""",Survived
+491,"Hagland, Mr. Konrad Mathias Reiersen",Did Not Survive
+492,"Windelov, Mr. Einar",Did Not Survive
+493,"Molson, Mr. Harry Markland",Did Not Survive
+494,"Artagaveytia, Mr. Ramon",Did Not Survive
+495,"Stanley, Mr. Edward Roland",Did Not Survive
+496,"Yousseff, Mr. Gerious",Did Not Survive
+497,"Eustis, Miss. Elizabeth Mussey",Survived
+498,"Shellard, Mr. Frederick William",Did Not Survive
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Survived
+500,"Svensson, Mr. Olof",Did Not Survive
+501,"Calic, Mr. Petar",Did Not Survive
+502,"Canavan, Miss. Mary",Survived
+503,"O'Sullivan, Miss. Bridget Mary",Survived
+504,"Laitinen, Miss. Kristina Sofia",Did Not Survive
+505,"Maioni, Miss. Roberta",Survived
+506,"Penasco y Castellana, Mr. Victor de Satode",Did Not Survive
+507,"Quick, Mrs. Frederick Charles (Jane Richards)",Survived
+508,"Bradley, Mr. George (""George Arthur Brayton"")",Did Not Survive
+509,"Olsen, Mr. Henry Margido",Did Not Survive
+510,"Lang, Mr. Fang",Did Not Survive
+511,"Daly, Mr. Eugene Patrick",Did Not Survive
+512,"Webber, Mr. James",Did Not Survive
+513,"McGough, Mr. James Robert",Did Not Survive
+514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Survived
+515,"Coleff, Mr. Satio",Did Not Survive
+516,"Walker, Mr. William Anderson",Did Not Survive
+517,"Lemore, Mrs. (Amelia Milley)",Survived
+518,"Ryan, Mr. Patrick",Did Not Survive
+519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Survived
+520,"Pavlovic, Mr. Stefo",Did Not Survive
+521,"Perreault, Miss. Anne",Survived
+522,"Vovk, Mr. Janko",Did Not Survive
+523,"Lahoud, Mr. Sarkis",Did Not Survive
+524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Survived
+525,"Kassem, Mr. Fared",Did Not Survive
+526,"Farrell, Mr. James",Did Not Survive
+527,"Ridsdale, Miss. Lucy",Survived
+528,"Farthing, Mr. John",Did Not Survive
+529,"Salonen, Mr. Johan Werner",Did Not Survive
+530,"Hocking, Mr. Richard George",Did Not Survive
+531,"Quick, Miss. Phyllis May",Survived
+532,"Toufik, Mr. Nakli",Did Not Survive
+533,"Elias, Mr. Joseph Jr",Did Not Survive
+534,"Peter, Mrs. Catherine (Catherine Rizk)",Survived
+535,"Cacic, Miss. Marija",Did Not Survive
+536,"Hart, Miss. Eva Miriam",Survived
+537,"Butt, Major. Archibald Willingham",Did Not Survive
+538,"LeRoy, Miss. Bertha",Survived
+539,"Risien, Mr. Samuel Beard",Did Not Survive
+540,"Frolicher, Miss. Hedwig Margaritha",Survived
+541,"Crosby, Miss. Harriet R",Survived
+542,"Andersson, Miss. Ingeborg Constanzia",Did Not Survive
+543,"Andersson, Miss. Sigrid Elisabeth",Did Not Survive
+544,"Beane, Mr. Edward",Did Not Survive
+545,"Douglas, Mr. Walter Donald",Did Not Survive
+546,"Nicholson, Mr. Arthur Ernest",Did Not Survive
+547,"Beane, Mrs. Edward (Ethel Clarke)",Survived
+548,"Padro y Manent, Mr. Julian",Did Not Survive
+549,"Goldsmith, Mr. Frank John",Did Not Survive
+550,"Davies, Master. John Morgan Jr",Did Not Survive
+551,"Thayer, Mr. John Borland Jr",Did Not Survive
+552,"Sharp, Mr. Percival James R",Did Not Survive
+553,"O'Brien, Mr. Timothy",Did Not Survive
+554,"Leeni, Mr. Fahim (""Philip Zenni"")",Did Not Survive
+555,"Ohman, Miss. Velin",Did Not Survive
+556,"Wright, Mr. George",Did Not Survive
+557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Survived
+558,"Robbins, Mr. Victor",Did Not Survive
+559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Survived
+560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Did Not Survive
+561,"Morrow, Mr. Thomas Rowan",Did Not Survive
+562,"Sivic, Mr. Husein",Did Not Survive
+563,"Norman, Mr. Robert Douglas",Did Not Survive
+564,"Simmons, Mr. John",Did Not Survive
+565,"Meanwell, Miss. (Marion Ogden)",Did Not Survive
+566,"Davies, Mr. Alfred J",Did Not Survive
+567,"Stoytcheff, Mr. Ilia",Did Not Survive
+568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Did Not Survive
+569,"Doharr, Mr. Tannous",Did Not Survive
+570,"Jonsson, Mr. Carl",Did Not Survive
+571,"Harris, Mr. George",Did Not Survive
+572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Survived
+573,"Flynn, Mr. John Irwin (""Irving"")",Did Not Survive
+574,"Kelly, Miss. Mary",Survived
+575,"Rush, Mr. Alfred George John",Did Not Survive
+576,"Patchett, Mr. George",Did Not Survive
+577,"Garside, Miss. Ethel",Survived
+578,"Silvey, Mrs. William Baird (Alice Munger)",Survived
+579,"Caram, Mrs. Joseph (Maria Elias)",Survived
+580,"Jussila, Mr. Eiriik",Did Not Survive
+581,"Christy, Miss. Julie Rachel",Survived
+582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Survived
+583,"Downton, Mr. William James",Did Not Survive
+584,"Ross, Mr. John Hugo",Did Not Survive
+585,"Paulner, Mr. Uscher",Did Not Survive
+586,"Taussig, Miss. Ruth",Survived
+587,"Jarvis, Mr. John Denzil",Did Not Survive
+588,"Frolicher-Stehli, Mr. Maxmillian",Did Not Survive
+589,"Gilinski, Mr. Eliezer",Did Not Survive
+590,"Murdlin, Mr. Joseph",Did Not Survive
+591,"Rintamaki, Mr. Matti",Did Not Survive
+592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Survived
+593,"Elsbury, Mr. William James",Did Not Survive
+594,"Bourke, Miss. Mary",Survived
+595,"Chapman, Mr. John Henry",Did Not Survive
+596,"Van Impe, Mr. Jean Baptiste",Did Not Survive
+597,"Leitch, Miss. Jessie Wills",Survived
+598,"Johnson, Mr. Alfred",Did Not Survive
+599,"Boulos, Mr. Hanna",Did Not Survive
+600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Did Not Survive
+601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Survived
+602,"Slabenoff, Mr. Petco",Did Not Survive
+603,"Harrington, Mr. Charles H",Did Not Survive
+604,"Torber, Mr. Ernst William",Did Not Survive
+605,"Homer, Mr. Harry (""Mr E Haven"")",Did Not Survive
+606,"Lindell, Mr. Edvard Bengtsson",Did Not Survive
+607,"Karaic, Mr. Milan",Did Not Survive
+608,"Daniel, Mr. Robert Williams",Did Not Survive
+609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Survived
+610,"Shutes, Miss. Elizabeth W",Survived
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Did Not Survive
+612,"Jardin, Mr. Jose Neto",Did Not Survive
+613,"Murphy, Miss. Margaret Jane",Survived
+614,"Horgan, Mr. John",Did Not Survive
+615,"Brocklebank, Mr. William Alfred",Did Not Survive
+616,"Herman, Miss. Alice",Survived
+617,"Danbom, Mr. Ernst Gilbert",Did Not Survive
+618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Did Not Survive
+619,"Becker, Miss. Marion Louise",Survived
+620,"Gavey, Mr. Lawrence",Did Not Survive
+621,"Yasbeck, Mr. Antoni",Did Not Survive
+622,"Kimball, Mr. Edwin Nelson Jr",Did Not Survive
+623,"Nakid, Mr. Sahid",Did Not Survive
+624,"Hansen, Mr. Henry Damsgaard",Did Not Survive
+625,"Bowen, Mr. David John ""Dai""",Did Not Survive
+626,"Sutton, Mr. Frederick",Did Not Survive
+627,"Kirkland, Rev. Charles Leonard",Did Not Survive
+628,"Longley, Miss. Gretchen Fiske",Survived
+629,"Bostandyeff, Mr. Guentcho",Did Not Survive
+630,"O'Connell, Mr. Patrick D",Did Not Survive
+631,"Barkworth, Mr. Algernon Henry Wilson",Did Not Survive
+632,"Lundahl, Mr. Johan Svensson",Did Not Survive
+633,"Stahelin-Maeglin, Dr. Max",Did Not Survive
+634,"Parr, Mr. William Henry Marsh",Did Not Survive
+635,"Skoog, Miss. Mabel",Did Not Survive
+636,"Davis, Miss. Mary",Survived
+637,"Leinonen, Mr. Antti Gustaf",Did Not Survive
+638,"Collyer, Mr. Harvey",Did Not Survive
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",Did Not Survive
+640,"Thorneycroft, Mr. Percival",Did Not Survive
+641,"Jensen, Mr. Hans Peder",Did Not Survive
+642,"Sagesser, Mlle. Emma",Survived
+643,"Skoog, Miss. Margit Elizabeth",Did Not Survive
+644,"Foo, Mr. Choong",Did Not Survive
+645,"Baclini, Miss. Eugenie",Survived
+646,"Harper, Mr. Henry Sleeper",Did Not Survive
+647,"Cor, Mr. Liudevit",Did Not Survive
+648,"Simonius-Blumer, Col. Oberst Alfons",Did Not Survive
+649,"Willey, Mr. Edward",Did Not Survive
+650,"Stanley, Miss. Amy Zillah Elsie",Did Not Survive
+651,"Mitkoff, Mr. Mito",Did Not Survive
+652,"Doling, Miss. Elsie",Survived
+653,"Kalvik, Mr. Johannes Halvorsen",Did Not Survive
+654,"O'Leary, Miss. Hanora ""Norah""",Survived
+655,"Hegarty, Miss. Hanora ""Nora""",Survived
+656,"Hickman, Mr. Leonard Mark",Did Not Survive
+657,"Radeff, Mr. Alexander",Did Not Survive
+658,"Bourke, Mrs. John (Catherine)",Survived
+659,"Eitemiller, Mr. George Floyd",Did Not Survive
+660,"Newell, Mr. Arthur Webster",Did Not Survive
+661,"Frauenthal, Dr. Henry William",Did Not Survive
+662,"Badt, Mr. Mohamed",Did Not Survive
+663,"Colley, Mr. Edward Pomeroy",Did Not Survive
+664,"Coleff, Mr. Peju",Did Not Survive
+665,"Lindqvist, Mr. Eino William",Did Not Survive
+666,"Hickman, Mr. Lewis",Did Not Survive
+667,"Butler, Mr. Reginald Fenton",Did Not Survive
+668,"Rommetvedt, Mr. Knud Paust",Did Not Survive
+669,"Cook, Mr. Jacob",Did Not Survive
+670,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Survived
+671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Survived
+672,"Davidson, Mr. Thornton",Did Not Survive
+673,"Mitchell, Mr. Henry Michael",Did Not Survive
+674,"Wilhelms, Mr. Charles",Did Not Survive
+675,"Watson, Mr. Ennis Hastings",Did Not Survive
+676,"Edvardsson, Mr. Gustaf Hjalmar",Did Not Survive
+677,"Sawyer, Mr. Frederick Charles",Did Not Survive
+678,"Turja, Miss. Anna Sofia",Did Not Survive
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",Did Not Survive
+680,"Cardeza, Mr. Thomas Drake Martinez",Did Not Survive
+681,"Peters, Miss. Katie",Survived
+682,"Hassab, Mr. Hammad",Did Not Survive
+683,"Olsvigen, Mr. Thor Anderson",Did Not Survive
+684,"Goodwin, Mr. Charles Edward",Did Not Survive
+685,"Brown, Mr. Thomas William Solomon",Did Not Survive
+686,"Laroche, Mr. Joseph Philippe Lemercier",Did Not Survive
+687,"Panula, Mr. Jaako Arnold",Did Not Survive
+688,"Dakic, Mr. Branko",Did Not Survive
+689,"Fischer, Mr. Eberhard Thelander",Did Not Survive
+690,"Madill, Miss. Georgette Alexandra",Survived
+691,"Dick, Mr. Albert Adrian",Did Not Survive
+692,"Karun, Miss. Manca",Survived
+693,"Lam, Mr. Ali",Did Not Survive
+694,"Saad, Mr. Khalil",Did Not Survive
+695,"Weir, Col. John",Did Not Survive
+696,"Chapman, Mr. Charles Henry",Did Not Survive
+697,"Kelly, Mr. James",Did Not Survive
+698,"Mullens, Miss. Katherine ""Katie""",Survived
+699,"Thayer, Mr. John Borland",Did Not Survive
+700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Did Not Survive
+701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Survived
+702,"Silverthorne, Mr. Spencer Victor",Did Not Survive
+703,"Barbara, Miss. Saiide",Survived
+704,"Gallagher, Mr. Martin",Did Not Survive
+705,"Hansen, Mr. Henrik Juul",Did Not Survive
+706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Did Not Survive
+707,"Kelly, Mrs. Florence ""Fannie""",Survived
+708,"Calderhead, Mr. Edward Pennington",Did Not Survive
+709,"Cleaver, Miss. Alice",Survived
+710,"Moubarek, Master. Halim Gonios (""William George"")",Did Not Survive
+711,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Survived
+712,"Klaber, Mr. Herman",Did Not Survive
+713,"Taylor, Mr. Elmer Zebley",Did Not Survive
+714,"Larsson, Mr. August Viktor",Did Not Survive
+715,"Greenberg, Mr. Samuel",Did Not Survive
+716,"Soholt, Mr. Peter Andreas Lauritz Andersen",Did Not Survive
+717,"Endres, Miss. Caroline Louise",Survived
+718,"Troutt, Miss. Edwina Celia ""Winnie""",Survived
+719,"McEvoy, Mr. Michael",Did Not Survive
+720,"Johnson, Mr. Malkolm Joackim",Did Not Survive
+721,"Harper, Miss. Annie Jessie ""Nina""",Survived
+722,"Jensen, Mr. Svend Lauritz",Did Not Survive
+723,"Gillespie, Mr. William Henry",Did Not Survive
+724,"Hodges, Mr. Henry Price",Did Not Survive
+725,"Chambers, Mr. Norman Campbell",Did Not Survive
+726,"Oreskovic, Mr. Luka",Did Not Survive
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Survived
+728,"Mannion, Miss. Margareth",Survived
+729,"Bryhl, Mr. Kurt Arnold Gottfrid",Did Not Survive
+730,"Ilmakangas, Miss. Pieta Sofia",Did Not Survive
+731,"Allen, Miss. Elisabeth Walton",Survived
+732,"Hassan, Mr. Houssein G N",Survived
+733,"Knight, Mr. Robert J",Did Not Survive
+734,"Berriman, Mr. William John",Did Not Survive
+735,"Troupiansky, Mr. Moses Aaron",Did Not Survive
+736,"Williams, Mr. Leslie",Did Not Survive
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",Did Not Survive
+738,"Lesurer, Mr. Gustave J",Did Not Survive
+739,"Ivanoff, Mr. Kanio",Did Not Survive
+740,"Nankoff, Mr. Minko",Did Not Survive
+741,"Hawksford, Mr. Walter James",Did Not Survive
+742,"Cavendish, Mr. Tyrell William",Did Not Survive
+743,"Ryerson, Miss. Susan Parker ""Suzette""",Survived
+744,"McNamee, Mr. Neal",Did Not Survive
+745,"Stranden, Mr. Juho",Did Not Survive
+746,"Crosby, Capt. Edward Gifford",Did Not Survive
+747,"Abbott, Mr. Rossmore Edward",Did Not Survive
+748,"Sinkkonen, Miss. Anna",Survived
+749,"Marvin, Mr. Daniel Warner",Did Not Survive
+750,"Connaghton, Mr. Michael",Did Not Survive
+751,"Wells, Miss. Joan",Survived
+752,"Moor, Master. Meier",Survived
+753,"Vande Velde, Mr. Johannes Joseph",Did Not Survive
+754,"Jonkoff, Mr. Lalio",Did Not Survive
+755,"Herman, Mrs. Samuel (Jane Laver)",Survived
+756,"Hamalainen, Master. Viljo",Survived
+757,"Carlsson, Mr. August Sigfrid",Did Not Survive
+758,"Bailey, Mr. Percy Andrew",Did Not Survive
+759,"Theobald, Mr. Thomas Leonard",Did Not Survive
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Survived
+761,"Garfirth, Mr. John",Did Not Survive
+762,"Nirva, Mr. Iisakki Antino Aijo",Did Not Survive
+763,"Barah, Mr. Hanna Assi",Did Not Survive
+764,"Carter, Mrs. William Ernest (Lucile Polk)",Survived
+765,"Eklund, Mr. Hans Linus",Did Not Survive
+766,"Hogeboom, Mrs. John C (Anna Andrews)",Survived
+767,"Brewe, Dr. Arthur Jackson",Did Not Survive
+768,"Mangan, Miss. Mary",Survived
+769,"Moran, Mr. Daniel J",Did Not Survive
+770,"Gronnestad, Mr. Daniel Danielsen",Did Not Survive
+771,"Lievens, Mr. Rene Aime",Did Not Survive
+772,"Jensen, Mr. Niels Peder",Did Not Survive
+773,"Mack, Mrs. (Mary)",Survived
+774,"Elias, Mr. Dibo",Did Not Survive
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",Survived
+776,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Did Not Survive
+777,"Tobin, Mr. Roger",Did Not Survive
+778,"Emanuel, Miss. Virginia Ethel",Did Not Survive
+779,"Kilgannon, Mr. Thomas J",Did Not Survive
+780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Survived
+781,"Ayoub, Miss. Banoura",Survived
+782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Survived
+783,"Long, Mr. Milton Clyde",Did Not Survive
+784,"Johnston, Mr. Andrew G",Did Not Survive
+785,"Ali, Mr. William",Did Not Survive
+786,"Harmer, Mr. Abraham (David Lishin)",Did Not Survive
+787,"Sjoblom, Miss. Anna Sofia",Did Not Survive
+788,"Rice, Master. George Hugh",Did Not Survive
+789,"Dean, Master. Bertram Vere",Survived
+790,"Guggenheim, Mr. Benjamin",Did Not Survive
+791,"Keane, Mr. Andrew ""Andy""",Did Not Survive
+792,"Gaskell, Mr. Alfred",Did Not Survive
+793,"Sage, Miss. Stella Anna",Did Not Survive
+794,"Hoyt, Mr. William Fisher",Did Not Survive
+795,"Dantcheff, Mr. Ristiu",Did Not Survive
+796,"Otter, Mr. Richard",Did Not Survive
+797,"Leader, Dr. Alice (Farnham)",Survived
+798,"Osman, Mrs. Mara",Did Not Survive
+799,"Ibrahim Shawah, Mr. Yousseff",Did Not Survive
+800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Did Not Survive
+801,"Ponesell, Mr. Martin",Did Not Survive
+802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Survived
+803,"Carter, Master. William Thornton II",Did Not Survive
+804,"Thomas, Master. Assad Alexander",Survived
+805,"Hedman, Mr. Oskar Arvid",Did Not Survive
+806,"Johansson, Mr. Karl Johan",Did Not Survive
+807,"Andrews, Mr. Thomas Jr",Did Not Survive
+808,"Pettersson, Miss. Ellen Natalia",Did Not Survive
+809,"Meyer, Mr. August",Did Not Survive
+810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Survived
+811,"Alexander, Mr. William",Did Not Survive
+812,"Lester, Mr. James",Did Not Survive
+813,"Slemen, Mr. Richard James",Did Not Survive
+814,"Andersson, Miss. Ebba Iris Alfrida",Did Not Survive
+815,"Tomlin, Mr. Ernest Portage",Did Not Survive
+816,"Fry, Mr. Richard",Did Not Survive
+817,"Heininen, Miss. Wendla Maria",Did Not Survive
+818,"Mallet, Mr. Albert",Did Not Survive
+819,"Holm, Mr. John Fredrik Alexander",Did Not Survive
+820,"Skoog, Master. Karl Thorsten",Did Not Survive
+821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Survived
+822,"Lulic, Mr. Nikola",Did Not Survive
+823,"Reuchlin, Jonkheer. John George",Did Not Survive
+824,"Moor, Mrs. (Beila)",Did Not Survive
+825,"Panula, Master. Urho Abraham",Did Not Survive
+826,"Flynn, Mr. John",Did Not Survive
+827,"Lam, Mr. Len",Did Not Survive
+828,"Mallet, Master. Andre",Survived
+829,"McCormack, Mr. Thomas Joseph",Did Not Survive
+830,"Stone, Mrs. George Nelson (Martha Evelyn)",Survived
+831,"Yasbeck, Mrs. Antoni (Selini Alexander)",Survived
+832,"Richards, Master. George Sibley",Survived
+833,"Saad, Mr. Amin",Did Not Survive
+834,"Augustsson, Mr. Albert",Did Not Survive
+835,"Allum, Mr. Owen George",Did Not Survive
+836,"Compton, Miss. Sara Rebecca",Survived
+837,"Pasic, Mr. Jakob",Did Not Survive
+838,"Sirota, Mr. Maurice",Did Not Survive
+839,"Chip, Mr. Chang",Did Not Survive
+840,"Marechal, Mr. Pierre",Did Not Survive
+841,"Alhomaki, Mr. Ilmari Rudolf",Did Not Survive
+842,"Mudd, Mr. Thomas Charles",Did Not Survive
+843,"Serepeca, Miss. Augusta",Survived
+844,"Lemberopolous, Mr. Peter L",Did Not Survive
+845,"Culumovic, Mr. Jeso",Did Not Survive
+846,"Abbing, Mr. Anthony",Did Not Survive
+847,"Sage, Mr. Douglas Bullen",Did Not Survive
+848,"Markoff, Mr. Marin",Did Not Survive
+849,"Harper, Rev. John",Did Not Survive
+850,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Survived
+851,"Andersson, Master. Sigvard Harald Elias",Did Not Survive
+852,"Svensson, Mr. Johan",Did Not Survive
+853,"Boulos, Miss. Nourelain",Survived
+854,"Lines, Miss. Mary Conover",Survived
+855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Survived
+856,"Aks, Mrs. Sam (Leah Rosen)",Did Not Survive
+857,"Wick, Mrs. George Dennick (Mary Hitchcock)",Survived
+858,"Daly, Mr. Peter Denis ",Did Not Survive
+859,"Baclini, Mrs. Solomon (Latifa Qurban)",Survived
+860,"Razi, Mr. Raihed",Did Not Survive
+861,"Hansen, Mr. Claus Peter",Did Not Survive
+862,"Giles, Mr. Frederick Edward",Did Not Survive
+863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Survived
+864,"Sage, Miss. Dorothy Edith ""Dolly""",Did Not Survive
+865,"Gill, Mr. John William",Did Not Survive
+866,"Bystrom, Mrs. (Karolina)",Survived
+867,"Duran y More, Miss. Asuncion",Survived
+868,"Roebling, Mr. Washington Augustus II",Did Not Survive
+869,"van Melkebeke, Mr. Philemon",Did Not Survive
+870,"Johnson, Master. Harold Theodor",Survived
+871,"Balkic, Mr. Cerin",Did Not Survive
+872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Survived
+873,"Carlsson, Mr. Frans Olof",Did Not Survive
+874,"Vander Cruyssen, Mr. Victor",Did Not Survive
+875,"Abelson, Mrs. Samuel (Hannah Wizosky)",Survived
+876,"Najib, Miss. Adele Kiamie ""Jane""",Survived
+877,"Gustafsson, Mr. Alfred Ossian",Did Not Survive
+878,"Petroff, Mr. Nedelio",Did Not Survive
+879,"Laleff, Mr. Kristo",Did Not Survive
+880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Survived
+881,"Shelley, Mrs. William (Imanita Parrish Hall)",Survived
+882,"Markun, Mr. Johann",Did Not Survive
+883,"Dahlberg, Miss. Gerda Ulrika",Did Not Survive
+884,"Banfield, Mr. Frederick James",Did Not Survive
+885,"Sutehall, Mr. Henry Jr",Did Not Survive
+886,"Rice, Mrs. William (Margaret Norton)",Did Not Survive
+887,"Montvila, Rev. Juozas",Did Not Survive
+888,"Graham, Miss. Margaret Edith",Survived
+889,"Johnston, Miss. Catherine Helen ""Carrie""",Did Not Survive
+890,"Behr, Mr. Karl Howell",Did Not Survive
+891,"Dooley, Mr. Patrick",Did Not Survive
